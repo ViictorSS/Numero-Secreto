@@ -29,3 +29,4 @@ alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentati
 // } else {
 //     alert(`Isso ai! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} tentativa.`);
 // }
+// testando o git
